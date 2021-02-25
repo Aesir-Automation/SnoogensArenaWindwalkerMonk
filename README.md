@@ -92,7 +92,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Cancel FoF to WDP and ToD @ HP%!**  
 • Got a good grasp of when a WDP will bring your target to 15% or below for an instant kill with ToD? No problem, I will force it to happen for you.  
 
-**Auto Transcendence: Transfer @ HP%!**
+**Auto Transcendence: Transfer @ HP%!**  
 • Don't want to manage your teleport and just let it happen when you're low? I got you mate.  
 
 ***

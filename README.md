@@ -165,7 +165,7 @@ Queues Door of Shadows on the next GCD
 **Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2.  
 **Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. One enemy player dies so only two remains, it falls back to focusing who isn't your target.  
 
-**Not Recommended**
+**Not Recommended**  
 **Auto Tiger's Lust Roots:** - For you who like auto pilot, this one will remove any roots you have with Tiger's Lust automatically.  
 **Auto Tiger's Lust Roots:** - For you who like auto pilot, this one will remove any slows you have with Tiger's Lust automatically.  
 **Cancel FoF to WDP and ToD @ HP%** - For you who like auto pilot, this one will force a Whirling Dragon Punch to be cast if it will put your target within range of Touch of Death.  

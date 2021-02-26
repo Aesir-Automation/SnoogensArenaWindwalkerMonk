@@ -151,9 +151,6 @@ Queues Door of Shadows on the next GCD
 **Casting**  
 **Cast Ring of Peace @ Cursor:** - Changes your Ring of Peace to use @cursor instead of being manually placeable.  
 
-**Tranquilizing Shot**  
-**Auto Tranquilizing Shot:** - Automatically shoots Tranquilizing Shot on target's with important buffs (according to selection below), such as Blessing of Protection, Alter Time etc.  
-
 **Miscellaneous**  
 **Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc
 **Auto Tigereye Brew:** - Automatically casts Tigereye Brew if your target has BoP, Demon Armor or is a class which will take more damage from nature vs physical. Cancels itself when no longer needed.    

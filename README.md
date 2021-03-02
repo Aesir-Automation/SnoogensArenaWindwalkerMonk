@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.0  
+# Snoogens Arena Windwalker Monk v1.1  
 ![alt text](https://i.imgur.com/gQ7qvJY.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -51,6 +51,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Auto Grapple Weapon!**  
 • Is there someone who's ready to burst you the hell down? Sorry mate, I'm about to yoinks your weapon.   
+
+**Auto Provoke!**  
+• Target not in range and you want to keep them in combat? Provoke them!  
 
 **Auto Tigereye Brew!**  
 • Paladin just popped Blessing of Protection on your target? Tigereye Brew to the rescue!    
@@ -152,7 +155,8 @@ Queues Door of Shadows on the next GCD
 **Cast Ring of Peace @ Cursor:** - Changes your Ring of Peace to use @cursor instead of being manually placeable.  
 
 **Miscellaneous**  
-**Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc
+**Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc  
+**Auto Provoke:** - Automatically casts Provoke on your target if they're outside of range to keep them in combat  
 **Auto Tigereye Brew:** - Automatically casts Tigereye Brew if your target has BoP, Demon Armor or is a class which will take more damage from nature vs physical. Cancels itself when no longer needed.    
 **Auto Detox Self:** - Automatically uses Detox on Self when a debuff worth Detoxing has been cast on you.  
 **Auto Detox Self:** - Automatically uses Detox on Party1-3 when a debuff worth Detoxing has been cast on your Party members.   

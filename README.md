@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.0  
+# Snoogens Arena Windwalker Monk v1.2  
 ![alt text](https://i.imgur.com/gQ7qvJY.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -40,6 +40,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 •	Auto Diffuse Magic on Big Debuff Combos    
 •	Auto Diffuse Magic on Combustion (but only if the mage is going for you!)   
 •	Auto Diffuse Magic on Touch of Karma    
+•	Auto Diffuse Magic on Mindgames  
 •	Auto Dampen Harm on Big Damage Buffs    
 •	Auto Fortifying Brew @ HP%  
 •	Auto Touch of Karma @ HP%  
@@ -51,6 +52,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Auto Grapple Weapon!**  
 • Is there someone who's ready to burst you the hell down? Sorry mate, I'm about to yoinks your weapon.   
+
+**Auto Provoke!**  
+• Target not in range and you want to keep them in combat? Provoke them!  
 
 **Auto Tigereye Brew!**  
 • Paladin just popped Blessing of Protection on your target? Tigereye Brew to the rescue!    
@@ -123,6 +127,10 @@ Queues Paralysis @ Target on the next GCD
 Queues Paralysis @ Focus on the next GCD  
 `/xxxxx RingofPeace`  
 Queues Ring of Peace on the next GCD  
+`/xxxxx LegSweep`  
+Queues Leg Sweep on the next GCD  
+`/xxxxx FlyingSerpentKick`  
+Queues Flying Serpent Kick on the next GCD  
 `/xxxxx DoorofShadows`  
 Queues Door of Shadows on the next GCD  
 
@@ -140,8 +148,9 @@ Queues Door of Shadows on the next GCD
 **Mitigation**  
 **Auto Diffuse Magic on Big DMG Spell:** - Casts Diffuse Magic when a big damage spell like Chaos Bolt, Convoke etc is about to hit you.  
 **Auto Diffuse Magic on Big Debuff Combo:** - Casts Diffuse Magic when a Warlock or Shadow Priest are trying to melt you down with their DoTs and CDs.  
-**Auto Diffuse Magic on Combustion:** - Casts Diffuse Magic when a Mage has popped Combustion and is about to nuke you down.  
-**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it.  
+**Auto Diffuse Magic on Combustion:** - Casts Diffuse Magic when a Mage has popped Combustion and is about to nuke you down. Includes a slider if you only want this to happen at a certain HP%.      
+**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.      
+**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Priest has popped Mindgames on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.    
 **Auto Dampen Harm on Big DMG Buff:** - Casts Dampen Harm when a big damage buff has been popped like Avatar, Shadow Dance etc and they are about to smack you.    
 **Auto Fortifying Brew @ HP%** - Uses Fortifying Brew automatically at the set and below Health percentage.  
 **Auto Touch of Karma @ HP%** - Uses Touch of Karma automatically at the set and below Health percentage.  
@@ -152,7 +161,8 @@ Queues Door of Shadows on the next GCD
 **Cast Ring of Peace @ Cursor:** - Changes your Ring of Peace to use @cursor instead of being manually placeable.  
 
 **Miscellaneous**  
-**Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc
+**Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc  
+**Auto Provoke:** - Automatically casts Provoke on your target if they're outside of range to keep them in combat  
 **Auto Tigereye Brew:** - Automatically casts Tigereye Brew if your target has BoP, Demon Armor or is a class which will take more damage from nature vs physical. Cancels itself when no longer needed.    
 **Auto Detox Self:** - Automatically uses Detox on Self when a debuff worth Detoxing has been cast on you.  
 **Auto Detox Self:** - Automatically uses Detox on Party1-3 when a debuff worth Detoxing has been cast on your Party members.   

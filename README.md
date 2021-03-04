@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.1  
+# Snoogens Arena Windwalker Monk v1.2  
 ![alt text](https://i.imgur.com/gQ7qvJY.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -40,6 +40,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 •	Auto Diffuse Magic on Big Debuff Combos    
 •	Auto Diffuse Magic on Combustion (but only if the mage is going for you!)   
 •	Auto Diffuse Magic on Touch of Karma    
+•	Auto Diffuse Magic on Mindgames  
 •	Auto Dampen Harm on Big Damage Buffs    
 •	Auto Fortifying Brew @ HP%  
 •	Auto Touch of Karma @ HP%  
@@ -126,6 +127,10 @@ Queues Paralysis @ Target on the next GCD
 Queues Paralysis @ Focus on the next GCD  
 `/xxxxx RingofPeace`  
 Queues Ring of Peace on the next GCD  
+`/xxxxx LegSweep`  
+Queues Leg Sweep on the next GCD  
+`/xxxxx FlyingSerpentKick`  
+Queues Flying Serpent Kick on the next GCD  
 `/xxxxx DoorofShadows`  
 Queues Door of Shadows on the next GCD  
 
@@ -143,8 +148,9 @@ Queues Door of Shadows on the next GCD
 **Mitigation**  
 **Auto Diffuse Magic on Big DMG Spell:** - Casts Diffuse Magic when a big damage spell like Chaos Bolt, Convoke etc is about to hit you.  
 **Auto Diffuse Magic on Big Debuff Combo:** - Casts Diffuse Magic when a Warlock or Shadow Priest are trying to melt you down with their DoTs and CDs.  
-**Auto Diffuse Magic on Combustion:** - Casts Diffuse Magic when a Mage has popped Combustion and is about to nuke you down.  
-**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it.  
+**Auto Diffuse Magic on Combustion:** - Casts Diffuse Magic when a Mage has popped Combustion and is about to nuke you down. Includes a slider if you only want this to happen at a certain HP%.      
+**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.      
+**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Priest has popped Mindgames on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.    
 **Auto Dampen Harm on Big DMG Buff:** - Casts Dampen Harm when a big damage buff has been popped like Avatar, Shadow Dance etc and they are about to smack you.    
 **Auto Fortifying Brew @ HP%** - Uses Fortifying Brew automatically at the set and below Health percentage.  
 **Auto Touch of Karma @ HP%** - Uses Touch of Karma automatically at the set and below Health percentage.  

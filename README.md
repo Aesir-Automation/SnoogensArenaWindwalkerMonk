@@ -202,8 +202,8 @@ I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, ple
 ## Advanced Users:  
 You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.
 Import this WeakAura group: https://wago.io/fK9QN1Enz  
-Password: aimsharp
-Once imported, you just need to add one row to each of your toggle Macros.
+Password: aimsharp  
+Once imported, you just need to add one row to each of your toggle Macros.  
 **Aimsharp Toggle:**  
 `/xxxxx toggle`  
 `/run local cvar="Toggle" SetCVar(cvar,1-GetCVar(cvar),cvar)`  

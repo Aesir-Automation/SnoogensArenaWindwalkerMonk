@@ -100,6 +100,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Auto Transcendence: Transfer @ HP%!**  
 • Don't want to manage your teleport and just let it happen when you're low? I got you mate.  
 
+**Auto Defensives on Demon Hunter: The Hunt!**  
+• I'll automatically pop a defensive CD for you when a Demon Hunter is about to finish casting The Hunt on you.  
+
 ***
 
 ## Toggles:  
@@ -153,6 +156,7 @@ Queues Door of Shadows on the next GCD
 **Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.      
 **Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Priest has popped Mindgames on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.    
 **Auto Dampen Harm on Big DMG Buff:** - Casts Dampen Harm when a big damage buff has been popped like Avatar, Shadow Dance etc and they are about to smack you.    
+**Auto Defensive DH The Hunt:** - Casts a defensive when a Demon Hunter is about to finish a The Hunt cast on you.  
 **Auto Fortifying Brew @ HP%** - Uses Fortifying Brew automatically at the set and below Health percentage.  
 **Auto Touch of Karma @ HP%** - Uses Touch of Karma automatically at the set and below Health percentage.  
 **Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  

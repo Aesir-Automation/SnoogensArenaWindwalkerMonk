@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.3  
+# Snoogens Arena Windwalker Monk v1.4   
 ![alt text](https://i.imgur.com/gQ7qvJY.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -116,6 +116,8 @@ Toggles Hold Xuen for the 2nd Storm, Earth, and Fire On (off default) - good to 
 Toggles Vivify On (off default) - will spam Vivify until you turn it off  
 `/xxxxx AutoTarget`  
 Toggles Auto Target On (off default)  
+`/xxxxx SerenityManual`  
+Toggles Serenity to be Manual (off default)   
 `/xxxxx PhialManual`  
 Toggles Phial of Serenity to be Manual (off default)  
 `/xxxxx RacialManual`  
@@ -135,6 +137,10 @@ Queues Ring of Peace on the next GCD
 Queues Leg Sweep on the next GCD  
 `/xxxxx FlyingSerpentKick`  
 Queues Flying Serpent Kick on the next GCD  
+`/xxxxx GrappleWeapon`  
+Queues Grapple Weapon on the next GCD  
+`/xxxxx Transfer`  
+Queues Transcendence: Transfer on the next GCD  
 `/xxxxx DoorofShadows`  
 Queues Door of Shadows on the next GCD  
 

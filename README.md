@@ -201,30 +201,7 @@ A feature not working as expected? Rotation not performing as what you believe i
 ***
 
 ## Disclaimer:  
-I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
+I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.
+Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, turning off AA and MSAA in your ingame Graphics settings etc.  
 
 ***
-
-## Advanced Users:  
-You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.  
-Import this WeakAura group: https://wago.io/fK9QN1Enz  
-Password: aimsharp  
-Once imported, you just need to add one row to each of your toggle Macros.  
-**Aimsharp Toggle:**  
-`/xxxxx toggle`  
-`/run local cvar="Toggle" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Burst:**  
-`/xxxxx Burst`  
-`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Vivify:**  
-`/xxxxx Vivify`  
-`/run local cvar="Vivify" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Hold Xuen until Second SEF:**  
-`/xxxxx HoldXuenSecondSEF`  
-`/run local cvar="HoldXuen" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Auto Target:**  
-`/xxxxx AutoTarget`  
-`/run local cvar="AutoTarget" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-
-Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
-To reset it, /reload when the icon **isn't** showing if it becomes out of sync.  

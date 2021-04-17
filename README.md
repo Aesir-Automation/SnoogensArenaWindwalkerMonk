@@ -23,11 +23,6 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Burst Preparation Mode!**  
 •	Let all the stars align before automatically taking you into Burst mode!  
 
-**Auto Target!**  
-•	Makes sure you're your targeting a player, not a pet, mirror image etc!  
-•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Tiger Palm it then target an enemy again!  
-•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
-
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
 
@@ -114,8 +109,6 @@ Toggles Burst Preparation mode rotation On (off default) - conserves important B
 Toggles Hold Xuen for the 2nd Storm, Earth, and Fire On (off default) - good to use when you know the kill-target will not die during the first SEF  
 `/xxxxx Vivify`  
 Toggles Vivify On (off default) - will spam Vivify until you turn it off  
-`/xxxxx AutoTarget`  
-Toggles Auto Target On (off default)  
 `/xxxxx SerenityManual`  
 Toggles Serenity to be Manual (off default)   
 `/xxxxx PhialManual`  

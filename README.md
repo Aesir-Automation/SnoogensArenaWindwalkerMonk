@@ -105,6 +105,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Auto Defensives on Demon Hunter: The Hunt!**  
 • I'll automatically pop a defensive CD for you when a Demon Hunter is about to finish casting The Hunt on you.  
 
+**Custom WeakAura Support!**  
+•	A customized WeakAura that shows which toggles you have enabled etc.  
+
 ***
 
 ## Toggles:  

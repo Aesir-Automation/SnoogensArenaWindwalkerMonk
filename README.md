@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.4   
+# Snoogens Arena Windwalker Monk    
 ![alt text](https://i.imgur.com/ViZbjL5.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  

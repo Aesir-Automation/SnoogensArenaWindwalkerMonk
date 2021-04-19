@@ -1,7 +1,7 @@
 # Snoogens Arena Windwalker Monk    
 ![alt text](https://i.imgur.com/ViZbjL5.png)  
 
-A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
+A PVP only rotation with a specific focus on Arena, however with support for Battleground usage.  
 Supports any level.  
 Only compatible with English Language World of Warcraft Client. This means that this rotation won't work for WoW clients with German, Russian etc languages.  
 Purchase a license through https://shoppy.gg/@snoogens  
@@ -11,17 +11,26 @@ Place the `license.txt` file you've recieved by email after purchasing in the `S
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
 
+WeakAuras can be found here:  
+https://wago.io/Tqv_4Xmky  
+Password: `aimsharp`  
+
+
 ***
 
 ## Featuring:  
-**Reaction Time!**  
-•	Customize how fast you want to react with things such as Auto Grapple, Auto Diffuse Magic, Auto Dampen Harm etc  
 
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience from both myself and my testers  
 
 **Burst Preparation Mode!**  
 •	Let all the stars align before automatically taking you into Burst mode!  
+
+**Reaction Time!**  
+•	Customize how fast you want to react with things such as Auto Grapple, Auto Diffuse Magic, Auto Dampen Harm etc  
+
+**Meta Legendary Support!**  
+• Full Support for meta legendaries such as Xuen's Treasure!  
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
@@ -41,7 +50,10 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 •	Auto Fortifying Brew @ HP%  
 •	Auto Touch of Karma @ HP%  
 •	Healthstone @ HP%  
-•	Panic CC @ HP%
+•	Panic CC @ HP%  
+
+**Auto Combat from Out of Combat!**  
+•	No need to initiate combat yourself when out of combat - it will engage automatically when in range!  
 
 **Placeable or @Cursor Casts!**  
 • Choose if you want to Ring of Peace @ Cursor or not  
@@ -97,6 +109,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Auto Defensives on Demon Hunter: The Hunt!**  
 • I'll automatically pop a defensive CD for you when a Demon Hunter is about to finish casting The Hunt on you.  
+
+**Custom WeakAura Support!**  
+•	A customized WeakAura that shows which toggles you have enabled etc.  
 
 ***
 

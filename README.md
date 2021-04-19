@@ -1,4 +1,4 @@
-# Snoogens Arena Windwalker Monk v1.4   
+# Snoogens Arena Windwalker Monk    
 ![alt text](https://i.imgur.com/ViZbjL5.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -22,11 +22,6 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Burst Preparation Mode!**  
 •	Let all the stars align before automatically taking you into Burst mode!  
-
-**Auto Target!**  
-•	Makes sure you're your targeting a player, not a pet, mirror image etc!  
-•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Tiger Palm it then target an enemy again!  
-•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
@@ -114,8 +109,6 @@ Toggles Burst Preparation mode rotation On (off default) - conserves important B
 Toggles Hold Xuen for the 2nd Storm, Earth, and Fire On (off default) - good to use when you know the kill-target will not die during the first SEF  
 `/xxxxx Vivify`  
 Toggles Vivify On (off default) - will spam Vivify until you turn it off  
-`/xxxxx AutoTarget`  
-Toggles Auto Target On (off default)  
 `/xxxxx SerenityManual`  
 Toggles Serenity to be Manual (off default)   
 `/xxxxx PhialManual`  
@@ -201,30 +194,7 @@ A feature not working as expected? Rotation not performing as what you believe i
 ***
 
 ## Disclaimer:  
-I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
+I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.
+Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, turning off AA and MSAA in your ingame Graphics settings etc.  
 
 ***
-
-## Advanced Users:  
-You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.  
-Import this WeakAura group: https://wago.io/fK9QN1Enz  
-Password: aimsharp  
-Once imported, you just need to add one row to each of your toggle Macros.  
-**Aimsharp Toggle:**  
-`/xxxxx toggle`  
-`/run local cvar="Toggle" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Burst:**  
-`/xxxxx Burst`  
-`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Vivify:**  
-`/xxxxx Vivify`  
-`/run local cvar="Vivify" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Hold Xuen until Second SEF:**  
-`/xxxxx HoldXuenSecondSEF`  
-`/run local cvar="HoldXuen" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Auto Target:**  
-`/xxxxx AutoTarget`  
-`/run local cvar="AutoTarget" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-
-Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
-To reset it, /reload when the icon **isn't** showing if it becomes out of sync.  

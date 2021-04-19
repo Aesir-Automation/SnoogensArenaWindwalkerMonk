@@ -14,14 +14,18 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 ***
 
 ## Featuring:  
-**Reaction Time!**  
-•	Customize how fast you want to react with things such as Auto Grapple, Auto Diffuse Magic, Auto Dampen Harm etc  
 
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience from both myself and my testers  
 
 **Burst Preparation Mode!**  
 •	Let all the stars align before automatically taking you into Burst mode!  
+
+**Reaction Time!**  
+•	Customize how fast you want to react with things such as Auto Grapple, Auto Diffuse Magic, Auto Dampen Harm etc  
+
+**Meta Legendary Support!**  
+• Full Support for meta legendaries such as Xuen's Treasure!  
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
@@ -41,7 +45,10 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 •	Auto Fortifying Brew @ HP%  
 •	Auto Touch of Karma @ HP%  
 •	Healthstone @ HP%  
-•	Panic CC @ HP%
+•	Panic CC @ HP%  
+
+**Auto Combat from Out of Combat!**  
+•	No need to initiate combat yourself when out of combat - it will engage automatically when in range!  
 
 **Placeable or @Cursor Casts!**  
 • Choose if you want to Ring of Peace @ Cursor or not  
